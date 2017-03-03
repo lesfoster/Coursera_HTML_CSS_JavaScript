@@ -32,6 +32,7 @@
 	border: 1px black solid;
 	margin: 5px;
 	padding: 5px;
+	height: 400px;
 }
 
 .greyback {
@@ -63,8 +64,9 @@
 
 	.lastspan {
 		position: relative;
-		width: 100%;
+		width: 97%;
 		float: left;
+		margin-right: 10px;
 	}
 
 	.centeredheading {
