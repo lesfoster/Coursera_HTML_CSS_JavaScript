@@ -32,7 +32,6 @@
 	border: 1px black solid;
 	margin: 5px;
 	padding: 5px;
-	height: 400px;
 }
 
 .greyback {
@@ -52,11 +51,21 @@
 		position: relative;
 		width: 32%;
 		float: left;
+		height: 100%;
 	}
+	.quotecontainer {
+		height: 400px;
+	}
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+	.quotecontainer {
+		height: 200px;
+	}
+
 	.strucspan {
+		height: 100%;
 		position: relative;
 		width: 48%;
 		float: left;
@@ -72,6 +81,7 @@
 	.centeredheading {
 		font-size: 150%;
 	}
+
 }
 
 @media (max-width: 767px) {
