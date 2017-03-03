@@ -11,9 +11,20 @@
 	text-align: center;
 }
 
+.spanheader {
+	font-weight: bold;
+	font-size: 110%;
+	
+	width: 100%;
+	position: relative;
+	float: left;
+	clear: right;
+}
+
 body {
 	background-color: #80fdf3;
 }
+
 
 .strucspan {
 	font-weight: bold;
@@ -61,6 +72,6 @@ body {
 	}
 
 	.centeredheading {
-		font-size: 110%;
+		font-size: 120%;
 	}
 }
