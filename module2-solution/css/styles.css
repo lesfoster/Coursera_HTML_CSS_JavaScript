@@ -16,14 +16,15 @@
 	font-size: 110%;
 	width: 100%;
 	position: relative;
+	margin-bottom: 5px;
 	text-align: right;
 	float: right;
 	clear: left;
-	clear: below;
 }
 
 .spanheader {
 	border: 1px black solid;
+	padding: 5px;
 }
 
 .strucspan {
@@ -31,7 +32,7 @@
 	font-weight: bold;
 	border: 1px black solid;
 	margin: 5px;
-	padding: 5px;
+	padding: 5px 0px 5px 5px;
 }
 
 .greyback {
