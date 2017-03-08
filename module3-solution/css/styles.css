@@ -1,0 +1,13 @@
+.menu-centered {
+    text-align: center;
+}
+
+.standout {
+    background-color: #c0ffc0;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+body {
+    font-family: "Times New Roman", Georgia, Serif
+}
